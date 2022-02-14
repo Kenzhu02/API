@@ -8,9 +8,9 @@
     "scrapper",
     "3"
   ],
-  "repository": "https://github.com/kenkannih/scraper-ken",
-  "success_url": "https://t.me/kenkanasw",
-  "website": "https://github.com/kenkannih/scraper-ken",
+  "repository": "https://github.com/Kenzhu02/Api",
+  "success_url": "https://t.me/triplenineee",
+  "website": "https://github.com/Kenzhu02/Api",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
